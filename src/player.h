@@ -1,11 +1,13 @@
 //Jonathan Vazquez
-//
+// player.h
 
 #ifndef PLAYER_H
 #define PLAYER_H
 
 #include <string>
 #include <vector>
+
+#include "card.h"
 
 
 class Player {
